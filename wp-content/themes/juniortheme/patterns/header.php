@@ -1,3 +1,9 @@
+<?php
+/**
+ * Title: Header
+ * Slug: juniortheme/header
+ */
+?>
 <head>
     <?php wp_head(); ?>
 </head>

@@ -1,1 +1,0 @@
-<p>100% sure that this SIDEBAR should be css-ed to make it actually a sidebar, but I am not the frontender.</p>
